@@ -5,7 +5,7 @@
 [Front end repo link](https://github.com/JaydeYue/RandomIonicFrontEnd)
 
 ## Currently have
-[Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicServer/routes/randomFunctionalities.js)
+Getting median of prime numbers before a positive N
 
 # Setup
 
