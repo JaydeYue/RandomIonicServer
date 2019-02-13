@@ -9,6 +9,7 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(methodOverride());
 app.use(cors());
+app.listen(port);
 
 const randomFunctionalities = require('./routes/randomFunctionalities');
 
