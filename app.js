@@ -9,7 +9,6 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(methodOverride());
 app.use(cors());
-app.listen(port);
 
 const randomFunctionalities = require('./routes/randomFunctionalities');
 
@@ -20,3 +19,4 @@ app.get('/', function(req, res) {
 app.get('/get_median_prime/:n_value', randomFunctionalities.getMedianPrimes);
 
 port = process.env.PORT || 8080
+app.listen(port);
