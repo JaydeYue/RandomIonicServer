@@ -1,9 +1,8 @@
 # Random Ionic Server
-Random stuff
 
-[Ionic Demo on Heroku]()
+[Server demo on Heroku](https://jayde-randomionicserver.herokuapp.com)
 
-[Front end ionic repo link](https://github.com/JaydeYue/RandomIonic)
+[Front end repo link](https://github.com/JaydeYue/RandomIonicFrontEnd)
 
 ## Currently have
 [Getting median of prime numbers before a positive N](https://github.com/JaydeYue/RandomIonicServer/routes/randomFunctionalities.js)
@@ -39,4 +38,4 @@ I set it to be on 8080, feel free to change though. Right now it only supports o
 
 4. **Troubleshoot**
 
-Please google whatever error you get:) If a problem persists, feel free to contact me through my website.
+Please google whatever build error you get:) If a build error persists or you find a bug, please contact me through my website. Thank you!
