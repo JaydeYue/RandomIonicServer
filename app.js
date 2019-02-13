@@ -18,6 +18,4 @@ app.get('/', function(req, res) {
 
 app.get('/get_median_prime/:n_value', randomFunctionalities.getMedianPrimes);
 
-app.listen(8080, function() {
-  console.log('Listening on port 8080');
-});
+port = process.env.PORT || 8080
