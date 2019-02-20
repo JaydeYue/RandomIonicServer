@@ -7,7 +7,7 @@
 [Front end repo link](https://github.com/JaydeYue/RandomIonicFrontEnd)
 
 ## Currently have
-Getting median of prime numbers before a positive N. 
+Getting median of prime numbers before or equal to a positive N. 
 
 # Setup
 
